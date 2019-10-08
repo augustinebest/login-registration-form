@@ -98,3 +98,10 @@
 #register {
     left: 450px;
 }
+
+@media (max-width: 600px) {
+    .form-box {
+        box-shadow: none;
+        border: none;
+    }
+}
