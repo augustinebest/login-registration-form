@@ -103,5 +103,6 @@
     .form-box {
         box-shadow: none;
         border: none;
+        margin: 20% auto;
     }
 }
